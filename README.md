@@ -48,7 +48,7 @@ This project demonstrates an end-to-end SOC automation pipeline that detects thr
 
 ### Wazuh Alert
 
-![Wazuh](screenshots/wazuh-alert.png)
+![Wazuh](https://github.com/keondreburks/soc-automation-lab/blob/df6fa6f83a10987d7024be5a29a45d5d500c1250/mimikatz%20alert.png)
 
 ## 🛠️ Setup Guide
 
