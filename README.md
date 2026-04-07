@@ -18,9 +18,9 @@ This project demonstrates an end-to-end SOC automation pipeline that detects thr
 3. Shuffle processes alert
 4. Case is created in TheHive
 
-## 🖼️ Architecture Diagram
 
-![Architecture](architecture/diagram.png)
+## 🏗️ Architecture Diagram
+![SOC Architecture](drawio.png)
 
 ## ⚙️ Technologies Used
 
