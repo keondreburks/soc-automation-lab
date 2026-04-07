@@ -40,7 +40,7 @@ This project demonstrates an end-to-end SOC automation pipeline that detects thr
 
 ### Shuffle Workflow
 
-![Shuffle](screenshots/shuffle-debug.png)
+![Shuffle](https://github.com/keondreburks/soc-automation-lab/blob/c47abd3a255b45e694e106f3db6b582bcb13d087/shuffle-workflow.png)
 
 ### TheHive Case
 
