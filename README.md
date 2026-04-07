@@ -44,7 +44,7 @@ This project demonstrates an end-to-end SOC automation pipeline that detects thr
 
 ### TheHive Case
 
-![TheHive](screenshots/thehive-case.png)
+![TheHive](https://github.com/keondreburks/soc-automation-lab/blob/834e6f461daf37bb97300c1ae15b071829ae7a59/mimikatz%20case.png)
 
 ### Wazuh Alert
 
