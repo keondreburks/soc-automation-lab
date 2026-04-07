@@ -7,8 +7,8 @@ This project demonstrates an end-to-end SOC automation pipeline that detects thr
 
 ## 🧱 Architecture
 
-* SIEM: Wazuh
-* SOAR: Shuffle
+* SIEM: Wazuh ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue)
+* SOAR: Shuffle   ![SOAR](https://img.shields.io/badge/SOAR-Shuffle-orange)
 * Case Management: TheHive
 
 ## 🔄 Workflow
